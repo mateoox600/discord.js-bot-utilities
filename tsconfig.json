@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "target": "ES6",
+    "module": "commonjs",
+    "outDir": "./build/",
+    "baseUrl" : "./src/",
+    "moduleResolution": "node"
+  }
+}
